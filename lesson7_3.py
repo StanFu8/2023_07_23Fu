@@ -1,5 +1,5 @@
 import random
-def play_game()->none:
+def play_game()->None:
     min = 1
     max = 100
     target = random.randint(min,max)
